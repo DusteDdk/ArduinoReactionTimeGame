@@ -1,0 +1,16 @@
+{
+    "name": "Arduino",
+    "includePath": [
+        "${workspaceRoot}"
+    ],
+    "browse": {
+        "path": [
+            "/home/dusted/data/Misc/bin/arduino-1.8.6/hardware",
+            "/home/dusted/data/Misc/bin/arduino-1.8.6/libraries",
+            "${workspaceRoot}"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    },
+    "intelliSenseMode": "msvc-x64"
+}
