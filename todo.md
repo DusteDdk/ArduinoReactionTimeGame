@@ -7,7 +7,7 @@ TODO
 
 FEATURES (Teh spek!)
 ====================
-[ ] LEDs indicate player turn.
+[ ] LED blinks indicate player turn. (1 blink = player 1)
 [ ] Shortpress to start turn.
 [ ] Shortpress right after turn start to reset.
 [ ] Longpress will switch to next player.
