@@ -76,8 +76,8 @@ bool playerTurn(uint8_t curPlayer) {
     // Record stop time
     unsigned long timeStop = millis();
 
-    // Turn on the led
-    digitalWrite(LEDPIN, 0);
+    // Turn off the led
+    digitalWrite(LEDPIN, 1);
 
     unsigned long  curTime = timeStop - timeStart;
 
